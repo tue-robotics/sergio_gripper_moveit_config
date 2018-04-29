@@ -1,0 +1,1 @@
+# sergio_gripper_moveit_config
