@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: dynamixel_ros_control
+    relative_path: tests/test_joint.xacro
+  SRDF:
+    relative_path: config/test_joint.srdf
+  CONFIG:
+    author_name: Ramon Wijnands
+    author_email: rayman747@hotmail.com
+    generated_timestamp: 1524942224
